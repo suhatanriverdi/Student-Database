@@ -22,4 +22,4 @@ This project was prepared and shared for education purphoses only. You can use o
 ## About
 Süha TANRIVERDİ Çankaya University, Computer Engineering
 
-# *"	Knowledge grows when shared... :) "
+# *"	Knowledge grows when shared... :) "*
