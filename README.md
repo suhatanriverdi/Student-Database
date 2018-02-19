@@ -1,4 +1,4 @@
-# Student Database System C++ Project
+## Student Database System C++ Project
 
 # Usage
 Student Database System was written by using Dev C++ (version 5.11). To start using, after downloading files to the same directory,
@@ -22,4 +22,4 @@ This project was prepared and shared for education purphoses only. You can use o
 # About
 Süha TANRIVERDİ Çankaya University, Computer Engineering
 
-# "	Knowledge grows when shared... :) "
+## "	Knowledge grows when shared... :) "
